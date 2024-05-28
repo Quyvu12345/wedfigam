@@ -92,7 +92,7 @@ button:hover {
 
 .image-container {
     flex: 1;
-    background: url("/wedfigam/icon/login.png") no-repeat center center/cover;
+    background: url("/icon/login.png") no-repeat center center/cover;
     position: relative;
 }
 
